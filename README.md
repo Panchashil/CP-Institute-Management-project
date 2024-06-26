@@ -5,11 +5,41 @@ Install :- npm install
 Just change the path directory (If and only required)
 That's It....
 
-![React App - Profile 1 - Microsoft​ Edge 26-06-2024 17_39_18](https://github.com/Panchashil/CP-Institute-Management-project/assets/172039007/03748b68-2111-44b7-bb10-d6c47bf6e565)
+![React App - Profile 1 - Microsoft​ Edge 26-06-2024 17_39_18](https://github.com/Panchashil/CP-Institute-Management-project/assets/172039007/620640f8-7f48-4c47-bb20-0112c88ace2f)
 
+![React App - Profile 1 - Microsoft​ Edge 26-06-2024 17_39_25](https://github.com/Panchashil/CP-Institute-Management-project/assets/172039007/3e9bdfb8-07c2-4794-8dac-3e8628512f9f)
 
+![React App - Profile 1 - Microsoft​ Edge 26-06-2024 17_40_03](https://github.com/Panchashil/CP-Institute-Management-project/assets/172039007/7aa461c8-890b-42de-a02f-910540be4484)
 
+![React App - Profile 1 - Microsoft​ Edge 26-06-2024 17_41_34](https://github.com/Panchashil/CP-Institute-Management-project/assets/172039007/be00f229-53fe-43b8-9fe7-645f4c8fddb0)
 
+![React App - Profile 1 - Microsoft​ Edge 26-06-2024 17_41_46](https://github.com/Panchashil/CP-Institute-Management-project/assets/172039007/1d9a0031-e00d-40f9-9c0a-ea457e0bbc80)
+
+![React App - Profile 1 - Microsoft​ Edge 26-06-2024 17_41_51](https://github.com/Panchashil/CP-Institute-Management-project/assets/172039007/c9126f02-d656-4d8f-b74f-2598b2eb23da)
+
+![React App - Profile 1 - Microsoft​ Edge 26-06-2024 17_42_00](https://github.com/Panchashil/CP-Institute-Management-project/assets/172039007/ea55d96f-4de8-41cb-b07d-83f5dfa6ba8a)
+
+![React App - Profile 1 - Microsoft​ Edge 26-06-2024 17_42_23](https://github.com/Panchashil/CP-Institute-Management-project/assets/172039007/1d11a023-0336-497a-9979-e3cc0d0896b0)
+
+![React App - Profile 1 - Microsoft​ Edge 26-06-2024 17_42_33](https://github.com/Panchashil/CP-Institute-Management-project/assets/172039007/24121c4d-1f81-4a25-8164-b5aafd6b994c)
+
+![React App - Profile 1 - Microsoft​ Edge 26-06-2024 17_44_04](https://github.com/Panchashil/CP-Institute-Management-project/assets/172039007/1d0f5f27-101c-46cf-911f-36d7ccc38cc0)
+
+![React App - Profile 1 - Microsoft​ Edge 26-06-2024 17_44_35](https://github.com/Panchashil/CP-Institute-Management-project/assets/172039007/2710013c-70e5-4424-af0d-4ef08fcfa2fd)
+
+![React App - Profile 1 - Microsoft​ Edge 26-06-2024 17_44_54](https://github.com/Panchashil/CP-Institute-Management-project/assets/172039007/df255ac2-47ff-4db4-9a95-07d53dd2d8b0)
+
+![React App - Profile 1 - Microsoft​ Edge 26-06-2024 17_45_01](https://github.com/Panchashil/CP-Institute-Management-project/assets/172039007/59f535f4-198e-4457-863c-89b5934918fe)
+
+![React App - Profile 1 - Microsoft​ Edge 26-06-2024 17_45_20](https://github.com/Panchashil/CP-Institute-Management-project/assets/172039007/d598189d-a615-44db-a428-1a729cf89a7a)
+
+![React App - Profile 1 - Microsoft​ Edge 26-06-2024 17_45_35](https://github.com/Panchashil/CP-Institute-Management-project/assets/172039007/8f85759c-36bd-4fba-b5a2-b71f6c69b7fc)
+
+![React App - Profile 1 - Microsoft​ Edge 26-06-2024 17_45_46](https://github.com/Panchashil/CP-Institute-Management-project/assets/172039007/a4029712-737d-440f-86e6-de1c82ded1a9)
+
+![React App - Profile 1 - Microsoft​ Edge 26-06-2024 17_45_57](https://github.com/Panchashil/CP-Institute-Management-project/assets/172039007/50024194-36c6-40cb-98e4-342a32d98562)
+
+![React App - Profile 1 - Microsoft​ Edge 26-06-2024 17_46_14](https://github.com/Panchashil/CP-Institute-Management-project/assets/172039007/4d4685d0-0a98-4d25-8f87-666ee99aced1)
 
 
 
