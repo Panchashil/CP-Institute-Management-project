@@ -5,6 +5,21 @@ Install :- npm install
 Just change the path directory (If and only required)
 That's It....
 
+![React App - Profile 1 - Microsoft​ Edge 26-06-2024 17_39_18](https://github.com/Panchashil/CP-Institute-Management-project/assets/172039007/a4a6a0aa-4b03-4d93-ad2a-34f20756af92)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
