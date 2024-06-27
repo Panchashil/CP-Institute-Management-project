@@ -48,12 +48,16 @@ const ProductDashboardComp = () => {
 
             <br/>
             
-            
+            <div class="text-center">
             <h2>This is Course Database</h2>
+            </div>
+            
 
             <hr className="text-secondary mt-2" />
-
+            <div class="d-flex justify-content-center">
             <Link to="../M3add" className='btn btn-outline-success' ><AddIcon /> &nbsp;ADD</Link>
+            </div>
+            
             {/* <Link to="/Logout"  className='btn btn-primary' style={{float:"right"}}>&nbsp;signout</Link><br /> */}
             
             <table className='table table-hover table-striped '>
@@ -76,8 +80,8 @@ const ProductDashboardComp = () => {
                             <td className='text-center'>{val.CourseTrainer}</td>
                             <td className='text-center'>{val.CourseDuration}</td>
                             <td className='text-center'>
-                            {/* <Link to={`/Maindashboard/ProductUpdate/${val.id}`} className='btn btn-outline-success btn-sm'><EditNoteOutlinedIcon /> </Link> {"| "} */}
-                            <Link to={`../M3update`} className='btn btn-outline-success btn-sm'><EditNoteOutlinedIcon /> </Link> {"| "}
+                            <Link to={`../M3update/${val.id}`} className='btn btn-outline-success btn-sm'><EditNoteOutlinedIcon /> </Link> {"| "}
+                            {/* <Link to={`../M3update`} className='btn btn-outline-success btn-sm'><EditNoteOutlinedIcon /> </Link> {"| "} */}
                                 <button type='button' onClick={()=>{DeleteProduct(val.id)}} className='btn btn-outline-danger btn-sm'>
                                     <DeleteOutlineOutlinedIcon></DeleteOutlineOutlinedIcon>
                                 </button>

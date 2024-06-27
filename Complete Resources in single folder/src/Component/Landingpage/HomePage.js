@@ -76,7 +76,7 @@ const HomePage = () => {
       <footer className="bg-light text-center text-lg-start">
         <div className="container p-4">
           <div className="text-center p-3">
-            © 2024 Institute Name
+          ©2024 <b>MIT Institute</b> - All rights reserved by <b>admin@Changepond-Technology </b>
           </div>
         </div>
       </footer>

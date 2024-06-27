@@ -12,7 +12,7 @@ const Footer = () => {
         >
           © 2024 Copyright: {" "}
           <a className='text-reset fw-bold' href='/'>
-           teamsupport@changepond.com
+          ©2024 <b>MIT Institute</b> - All rights reserved by <b>admin@Changepond-Technology </b>
           </a>
         </div>
       </footer>

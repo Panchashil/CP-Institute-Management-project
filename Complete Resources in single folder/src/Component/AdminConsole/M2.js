@@ -30,13 +30,16 @@ const ProductDashboardComp = () => {
         <div>
 
             <br/>
-            
-            
+            <div class="text-center">
             <h2>This is Student Database</h2>
+            </div>
+                      
 
             <hr className="text-secondary mt-2" />
 
-            <Link to="../M2add" className='btn btn-outline-success' ><AddIcon /> &nbsp;ADD</Link>
+        <div class="d-flex justify-content-center">
+            <Link to="../M2add" className='btn btn-outline-success'><AddIcon /> &nbsp;ADD</Link>
+        </div>
             {/* <a href="./ProductUpdateComp" className="btn btn-primary"> <AddIcon /> &nbsp;ADD </a> */}
             {/* <Link to="/Logout"  className='btn btn-primary' style={{float:"right"}}>&nbsp;signout</Link><br /> */}
             
@@ -71,8 +74,8 @@ const ProductDashboardComp = () => {
                             <td className='text-center'>{val.Password}</td>
                             
                             <td className='text-center'>
-                            {/* <Link to={`../M2update/${val.id}`} className='btn btn-outline-success btn-sm' ><EditNoteOutlinedIcon /> </Link>  {"| "} */}
-                            <Link to={`../M2update`} className='btn btn-outline-success btn-sm' ><EditNoteOutlinedIcon /> </Link>  {"| "}
+                            <Link to={`../M2update/${val.id}`} className='btn btn-outline-success btn-sm' ><EditNoteOutlinedIcon /> </Link>  {"| "}
+                            
                                 <button type='button' onClick={()=>{DeleteProduct(val.id)}} className='btn btn-outline-danger btn-sm'>
                                     <DeleteOutlineOutlinedIcon></DeleteOutlineOutlinedIcon>
                                 </button>

@@ -40,6 +40,12 @@ function AdmSideNav() {
               {isSidebarVisible && <span className="fs-5">Trainer Database</span>}
             </Link>
             </ul>
+          <ul className="nav-items p-0 text-start">
+            <Link to="contact" className="nav-link text-white">
+              <i className="bi bi-people me-2 fs-5"></i>
+              {isSidebarVisible && <span className="fs-5">Contact List</span>}
+            </Link>
+            </ul>
          
     </div>
   );

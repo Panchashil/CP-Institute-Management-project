@@ -19,7 +19,7 @@ import logo1image from "../../shared/Images/MIT-logo-lightgray-white.png";
 
 const Header = () => {
   return (
-    <div style={{ width: '100%' }} className="container-fluid ">
+    <div style={{ width: '100%' }} className="container-fluid" >
       <AppBar position="static" sx={{ backgroundColor: '#750014', padding: '10px',borderRadius:'8px' }}>
         <Toolbar>
           <Box display="flex" alignItems="center" sx={{ flexGrow: 1 }}>
