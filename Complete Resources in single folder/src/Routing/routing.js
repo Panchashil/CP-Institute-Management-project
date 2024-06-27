@@ -14,6 +14,8 @@ import M3 from '../Component/AdminConsole/M3';
 import M4 from '../Component/AdminConsole/M4';
 import M2add from '../Component/AdminConsole/M2add';
 import M2update from '../Component/AdminConsole/M2update';
+import Contact from '../Component/AdminConsole/contactlist';
+
 import M3add from '../Component/AdminConsole/M3add';
 import M3update from '../Component/AdminConsole/M3update';
 import M4add from '../Component/AdminConsole/M4add';
@@ -62,11 +64,12 @@ const router = createBrowserRouter([
         {path:"M3", element:<M3/>},
         {path:"M4", element:<M4/>},
         {path:"M2add", element:<M2add/>},
-        {path:"M2update", element:<M2update/>},
+        {path:"M2update/:id", element:<M2update/>},
         {path:"M3add", element:<M3add/>},
-        {path:"M3update", element:<M3update/>},
+        {path:"M3update/:id", element:<M3update/>},
         {path:"M4add", element:<M4add/>},
-        {path:"M4update", element:<M4update/>}
+        {path:"M4update/:id", element:<M4update/>},
+        {path:"contact", element:<Contact/>}
 
     ]},
 
@@ -79,11 +82,11 @@ const router = createBrowserRouter([
     {path:"M3", element:<M3/>},
     {path:"M4", element:<M4/>},
     {path:"M2add", element:<M2add/>},
-    {path:"M2update", element:<M2update/>},
+    {path:"M2update/:id", element:<M2update/>},
     {path:"M3add", element:<M3add/>},
-    {path:"M3update", element:<M3update/>},
+    {path:"M3update/:id", element:<M3update/>},
     {path:"M4add", element:<M4add/>},
-    {path:"M4update", element:<M4update/>}
+    {path:"M4update/:id", element:<M4update/>}
 
     ]},
     
@@ -95,11 +98,11 @@ const router = createBrowserRouter([
     {path:"M3", element:<M3/>},
     {path:"M4", element:<M4/>},
     {path:"M2add", element:<M2add/>},
-    {path:"M2update", element:<M2update/>},
+    {path:"M2update/:id", element:<M2update/>},
     {path:"M3add", element:<M3add/>},
-    {path:"M3update", element:<M3update/>},
+    {path:"M3update/:id", element:<M3update/>},
     {path:"M4add", element:<M4add/>},
-    {path:"M4update", element:<M4update/>}
+    {path:"M4update/:id", element:<M4update/>}
 
     ]},
 

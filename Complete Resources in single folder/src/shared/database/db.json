@@ -5,7 +5,7 @@
       "RollNo": "1001",
       "Name": "Manoj",
       "Dept": "CSE",
-      "Contact": "98765 43210",
+      "Contact": "9876543210",
       "Email": "manoj@gmail.com",
       "Gender": "Male",
       "Dob": "01/01/2001",
@@ -75,10 +75,10 @@
     {
       "id": "7",
       "RollNo": "1007",
-      "Name": "Danesh",
+      "Name": "Dhanesh",
       "Dept": "MECH",
-      "Contact": "98765 96543",
-      "Email": "danesh@gmail.com",
+      "Contact": "9876596543",
+      "Email": "dhanesh@gmail.com",
       "Gender": "Male",
       "Dob": "01/07/2001",
       "Address": "Kaniyakumari",
@@ -109,16 +109,92 @@
       "Password": "dinesh@123"
     },
     {
-      "id": "10",
-      "RollNo": "1010",
-      "Name": "Basil",
+      "id": "a0f6",
+      "RollNo": "1101",
+      "Name": "MANOJ",
       "Dept": "CSE",
-      "Contact": "98765 12098",
-      "Email": "basil@gmail.com",
-      "Gender": "Male",
-      "Dob": "01/10/2001",
-      "Address": "Thanjavur",
-      "Password": "basil@123"
+      "Contact": "9999955555",
+      "Email": "manoj@gmail.com",
+      "Gender": "male",
+      "Dob": "1999-10-06",
+      "Address": "Chennai",
+      "Password": "sadsadsad"
+    },
+    {
+      "id": "0e71",
+      "RollNo": "1101",
+      "Name": "MANOJ",
+      "Dept": "CSE",
+      "Contact": "9999955555",
+      "Email": "manoj@gmail.com",
+      "Gender": "male",
+      "Dob": "1022-10-06",
+      "Address": "Chennai",
+      "Password": "asdsadsadsad"
+    },
+    {
+      "id": "3234",
+      "RollNo": "1101",
+      "Name": "MANOJ",
+      "Dept": "CSE",
+      "Contact": "9999955555",
+      "Email": "manoj@gmail.com",
+      "Gender": "male",
+      "Dob": "1555-10-10",
+      "Address": "Chennai",
+      "Password": "asdsadsad"
+    },
+    {
+      "id": "7d3c",
+      "RollNo": "1101",
+      "Name": "MANOJ",
+      "Dept": "CSE",
+      "Contact": "9999955555",
+      "Email": "manoj@gmail.com",
+      "Gender": "male",
+      "Dob": "2000-10-10",
+      "Address": "Chennai",
+      "Password": "sadsadsa"
+    },
+    {
+      "id": "a491",
+      "pname": "",
+      "price": "",
+      "company": "",
+      "RollNo": "1101",
+      "Name": "MANOJ",
+      "Dept": "CSE",
+      "Contact": "9999955555",
+      "Email": "manoj@gmail.com",
+      "Gender": "male",
+      "Address": "Chennai",
+      "DOB": "1999-10-10",
+      "password": "asdsadsa"
+    },
+    {
+      "id": "0f8c",
+      "pname": "",
+      "price": "",
+      "company": "",
+      "Dept": "cse",
+      "Contact": "6305340096",
+      "Email": "xyz",
+      "Gender": "xyz"
+    },
+    {
+      "id": "1438",
+      "pname": "",
+      "price": "",
+      "company": "",
+      "RollNo": "1101",
+      "Name": "raghul",
+      "Dept": "cse",
+      "Contact": "9999955555",
+      "Email": "devanatham@gmail.com",
+      "Gender": "male",
+      "DOB": "2002-06-27",
+      "Address": "pondicherry",
+      "password": "raghul"
     }
   ],
   "course": [
@@ -214,7 +290,7 @@
       "Name": "Panchashil",
       "Contact": "99887 66554",
       "Designation": "Full Stack Developer",
-      "Experience": "8+Years"
+      "Experience": "8+ Years"
     },
     {
       "id": "2",
@@ -268,23 +344,54 @@
   "user": [
     {
       "id": "1",
-      "userId": "admin@gmail.com",
-      "userPass": "admin@123"
+      "userId": "admin",
+      "userPass": "admin"
     },
     {
       "id": "2",
-      "userId": "suresh@gmail.com",
-      "userPass": "suresh@123"
+      "userId": "student",
+      "userPass": "student"
     },
     {
       "id": "3",
-      "userId": "manikandan@gmail.com",
-      "userPass": "manikandan@123"
+      "userId": "trainer",
+      "userPass": "trainer"
     },
     {
-      "id": "cc93",
-      "userId": "Ravi123@gmail.com",
-      "userPass": "Ravi@123"
+      "id": "4",
+      "userId": "guest",
+      "userPass": "guest"
+    },
+    {
+      "id": "c12",
+      "userId": "test",
+      "userPass": "test"
+    }
+  ],
+  "NewcontactData": [
+    {
+      "id": "1081",
+      "firstName": "MANOJ",
+      "lastName": "KUMAR",
+      "email": "manoj@gmail.com",
+      "subject": "NEW JOINEE",
+      "message": "THANKS "
+    },
+    {
+      "id": "b04f",
+      "firstName": "Vijay ",
+      "lastName": "Kumar",
+      "email": "vijay@gmail.com",
+      "subject": "NEW JOINEE",
+      "message": "thank "
+    },
+    {
+      "id": "9d28",
+      "firstName": "Devanatham ",
+      "lastName": "k",
+      "email": "devanatham@gmail.com",
+      "subject": "information about courses ",
+      "message": "about cse "
     }
   ]
 }
